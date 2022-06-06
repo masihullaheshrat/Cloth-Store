@@ -25,3 +25,26 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project is done for the assessment given by DTC Marketing company.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [PHP](https://php.net)
+* [Wordpress](https://wordpress.org)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
