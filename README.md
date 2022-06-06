@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - Masihullah Eshrat
 
 Project Link: [https://github.com/masihullaheshrat/Cloth-Store](https://github.com/masihullaheshrat/Cloth-Store)
 
