@@ -47,7 +47,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [JQuery](https://jquery.com)
 * [Ashe Wordpress Theme](https://wp-royal.com/themes/ashe-free/demo/)
 * [Advanced Post Blog Plugin](https://wordpress.org/plugins/advanced-post-block/)
-* 
+* [Alert Box Plugin](https://wordpress.org/plugins/alert-on-post-and-pages-selected/)
+* [Classic Widgets Plugin](https://wordpress.org/plugins/classic-widgets/)
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* [Social Icons Widget & Block by WPZOOM](https://wordpress.org/plugins/social-icons-widget-by-wpzoom/)
+* [Ticket Book for CF7]
+* [Woocommerce Plugin](https://wordpress.org/plugins/woocommerce/)
+* [WP Menu Icons Plugin](https://wordpress.org/plugins/wp-menu-icons/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
